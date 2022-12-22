@@ -9,7 +9,7 @@ assignees:
   - megasanjay
 
 status-website:
-  baseUrl: /upptime
+  cname: status.sanjaysoundarajan.dev
   name: Uptime status
   navbar:
     - title: Status
