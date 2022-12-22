@@ -5,6 +5,9 @@ sites:
   - name: Portfolio
     url: https://sanjaysoundarajan.dev
 
+assignees:
+  - megasanjay
+
 status-website:
   cname: status.sanjaysoundarajan.dev
   logoUrl: https://raw.githubusercontent.com/megasanjay/sanjaysoundarajan/main/public/svg/s.svg
