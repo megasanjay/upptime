@@ -4,6 +4,16 @@ repo: upptime
 sites:
   - name: Portfolio
     url: https://sanjaysoundarajan.dev
+  - name: Colorize
+    url: https://colorize.saso.one
+  - name: Sanity Studio
+    url: https://studio.sanjaysoundarajan.dev
+  - name: Umami
+    url: https://umami.sanjaysoundarajan.dev
+  - name: Vue 3 Marquee Documentation
+    url: https://vue3marquee.sanjaysoundarajan.dev
+  - name: Vue 3 Lottie Documentation
+    url: https://vue3lottie.sanjaysoundarajan.dev
 
 assignees:
   - megasanjay
