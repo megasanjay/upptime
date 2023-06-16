@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 0,
-    "timeWeek": 139,
-    "timeMonth": 132,
-    "timeYear": 151,
+    "time": 205,
+    "timeDay": 9729,
+    "timeWeek": 1737,
+    "timeMonth": 452,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 0,
-    "timeWeek": 167,
-    "timeMonth": 177,
-    "timeYear": 198,
+    "time": 225,
+    "timeDay": 5038,
+    "timeWeek": 979,
+    "timeMonth": 339,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 0,
-    "timeWeek": 190,
-    "timeMonth": 144,
-    "timeYear": 158,
+    "time": 220,
+    "timeDay": 5058,
+    "timeWeek": 1002,
+    "timeMonth": 308,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 0,
-    "timeWeek": 208,
-    "timeMonth": 166,
-    "timeYear": 259,
+    "time": 282,
+    "timeDay": 4240,
+    "timeWeek": 880,
+    "timeMonth": 302,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -76,35 +76,39 @@
     "url": "https://vue3marquee.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vue3marquee.sanjaysoundarajan.dev.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 0,
-    "timeWeek": 204,
-    "timeMonth": 294,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 223,
+    "timeDay": 80,
+    "timeWeek": 184,
+    "timeMonth": 287,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "Vue 3 Lottie Documentation",
     "url": "https://vue3lottie.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vue3lottie.sanjaysoundarajan.dev.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 0,
-    "timeWeek": 158,
-    "timeMonth": 128,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 5043,
+    "timeWeek": 972,
+    "timeMonth": 292,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   }
 ]
