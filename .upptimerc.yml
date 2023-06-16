@@ -11,9 +11,9 @@ sites:
   - name: Umami
     url: https://umami.sanjaysoundarajan.dev
   - name: Vue 3 Marquee Documentation
-    url: https://vue3marquee.sanjaysoundarajan.dev
+    url: https://vue3-marquee.vercel.app/
   - name: Vue 3 Lottie Documentation
-    url: https://vue3lottie.sanjaysoundarajan.dev
+    url: https://vue3-lottie.vercel.app/
 
 assignees:
   - megasanjay
