@@ -40,19 +40,19 @@
     "url": "https://studio.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 237,
-    "timeWeek": 780,
-    "timeMonth": 301,
-    "timeYear": 218,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 219,
+    "timeDay": 279,
+    "timeWeek": 734,
+    "timeMonth": 303,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-06-19": 0
+      "2023-06-19": 9
     }
   },
   {
