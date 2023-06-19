@@ -58,9 +58,9 @@
     "url": "https://umami.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/umami.sanjaysoundarajan.dev.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 705,
     "timeMonth": 293,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-19": 0
+    }
   },
   {
     "name": "Vue 3 Marquee Documentation",
