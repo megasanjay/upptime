@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 93,
-    "timeWeek": 2346,
+    "time": 234,
+    "timeDay": 101,
+    "timeWeek": 2352,
     "timeMonth": 631,
-    "timeYear": 235,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 95,
-    "timeWeek": 1106,
-    "timeMonth": 394,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 107,
+    "timeWeek": 1110,
+    "timeMonth": 395,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 279,
-    "timeWeek": 734,
-    "timeMonth": 303,
-    "timeYear": 219,
-    "dailyMinutesDown": {
-      "2023-06-19": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 223,
+    "timeDay": 376,
+    "timeWeek": 781,
+    "timeMonth": 314,
+    "timeYear": 223,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Umami",
@@ -67,9 +65,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 158,
-    "timeWeek": 644,
-    "timeMonth": 291,
+    "timeDay": 258,
+    "timeWeek": 671,
+    "timeMonth": 298,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2023-06-19": 32
@@ -86,11 +84,11 @@
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.91%",
-    "time": 264,
-    "timeDay": 3777,
-    "timeWeek": 1233,
-    "timeMonth": 526,
-    "timeYear": 264,
+    "time": 283,
+    "timeDay": 3617,
+    "timeWeek": 1734,
+    "timeMonth": 640,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2023-06-16": 241
     }
@@ -106,11 +104,11 @@
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.91%",
-    "time": 205,
-    "timeDay": 379,
-    "timeWeek": 1437,
-    "timeMonth": 419,
-    "timeYear": 205,
+    "time": 225,
+    "timeDay": 3824,
+    "timeWeek": 1976,
+    "timeMonth": 539,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2023-06-16": 241
     }
