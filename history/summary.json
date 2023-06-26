@@ -80,9 +80,9 @@
     "slug": "vue-3-marquee-documentation",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
     "time": 367,
     "timeDay": 2057,
@@ -90,7 +90,7 @@
     "timeMonth": 1149,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-06-26": 0,
+      "2023-06-26": 11,
       "2023-06-16": 241
     }
   },
@@ -99,18 +99,19 @@
     "url": "https://vue3-lottie.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.91%",
-    "time": 264,
-    "timeDay": 3701,
-    "timeWeek": 1791,
-    "timeMonth": 795,
-    "timeYear": 264,
+    "time": 266,
+    "timeDay": 2204,
+    "timeWeek": 1655,
+    "timeMonth": 792,
+    "timeYear": 266,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-06-16": 241
     }
   }
