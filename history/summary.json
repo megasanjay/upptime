@@ -22,19 +22,19 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 95,
-    "timeWeek": 142,
-    "timeMonth": 250,
-    "timeYear": 233,
+    "time": 232,
+    "timeDay": 84,
+    "timeWeek": 133,
+    "timeMonth": 244,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 8
     }
   },
   {
