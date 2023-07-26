@@ -22,9 +22,9 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 142,
     "timeMonth": 250,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "AI Gallery Studio",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 670,
     "timeDay": 4259,
     "timeWeek": 3027,
