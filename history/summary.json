@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 129,
-    "timeWeek": 111,
-    "timeMonth": 106,
-    "timeYear": 184,
+    "timeDay": 194,
+    "timeWeek": 126,
+    "timeMonth": 107,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 55,
-    "timeWeek": 72,
-    "timeMonth": 109,
-    "timeYear": 198,
+    "timeDay": 181,
+    "timeWeek": 87,
+    "timeMonth": 111,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2023-08-03": 28
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 444,
-    "timeWeek": 709,
-    "timeMonth": 690,
-    "timeYear": 428,
+    "time": 429,
+    "timeDay": 848,
+    "timeWeek": 702,
+    "timeMonth": 698,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 133,
+    "timeDay": 235,
     "timeWeek": 171,
-    "timeMonth": 186,
+    "timeMonth": 187,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-06-19": 32
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1343,
-    "timeDay": 552,
-    "timeWeek": 1290,
-    "timeMonth": 1760,
-    "timeYear": 1411,
+    "time": 1341,
+    "timeDay": 441,
+    "timeWeek": 1294,
+    "timeMonth": 1660,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2023-07-03": 356,
       "2023-06-26": 38,
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1202,
-    "timeDay": 3304,
-    "timeWeek": 1790,
-    "timeMonth": 1351,
-    "timeYear": 1260,
+    "time": 1200,
+    "timeDay": 525,
+    "timeWeek": 1763,
+    "timeMonth": 1349,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2023-06-26": 20,
       "2023-06-16": 241
