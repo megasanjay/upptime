@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 196,
-    "timeWeek": 131,
-    "timeMonth": 120,
+    "timeDay": 80,
+    "timeWeek": 123,
+    "timeMonth": 119,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 109,
-    "timeWeek": 73,
-    "timeMonth": 101,
-    "timeYear": 168,
+    "time": 187,
+    "timeDay": 41,
+    "timeWeek": 67,
+    "timeMonth": 100,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2023-08-03": 28
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 1635,
-    "timeWeek": 1577,
-    "timeMonth": 1406,
-    "timeYear": 800,
+    "time": 702,
+    "timeDay": 3914,
+    "timeWeek": 1906,
+    "timeMonth": 1506,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -67,13 +67,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 201,
-    "timeWeek": 264,
-    "timeMonth": 251,
-    "timeYear": 230,
-    "dailyMinutesDown": {
-      "2023-06-19": 32
-    }
+    "timeDay": 357,
+    "timeWeek": 282,
+    "timeMonth": 257,
+    "timeYear": 231,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vue 3 Marquee Documentation",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1611,
-    "timeDay": 562,
-    "timeWeek": 1967,
-    "timeMonth": 2001,
-    "timeYear": 2070,
+    "time": 1612,
+    "timeDay": 444,
+    "timeWeek": 1949,
+    "timeMonth": 1918,
+    "timeYear": 2061,
     "dailyMinutesDown": {
       "2023-07-03": 356,
       "2023-06-26": 38
@@ -108,10 +106,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1569,
-    "timeDay": 3273,
-    "timeWeek": 2425,
-    "timeMonth": 2228,
-    "timeYear": 2030,
+    "timeDay": 433,
+    "timeWeek": 2006,
+    "timeMonth": 2212,
+    "timeYear": 2021,
     "dailyMinutesDown": {
       "2023-06-26": 20
     }
