@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 103,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "time": 167,
+    "timeDay": 73,
+    "timeWeek": 119,
+    "timeMonth": 119,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 63,
-    "timeWeek": 158,
-    "timeMonth": 117,
+    "time": 187,
+    "timeDay": 60,
+    "timeWeek": 152,
+    "timeMonth": 116,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2023-08-03": 28
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 1256,
-    "timeWeek": 1459,
-    "timeMonth": 1578,
-    "timeYear": 833,
+    "time": 717,
+    "timeDay": 2200,
+    "timeWeek": 1505,
+    "timeMonth": 1615,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 176,
-    "timeWeek": 209,
-    "timeMonth": 249,
+    "timeDay": 334,
+    "timeWeek": 217,
+    "timeMonth": 254,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1627,
-    "timeDay": 3108,
-    "timeWeek": 1523,
-    "timeMonth": 1940,
-    "timeYear": 2032,
+    "time": 1633,
+    "timeDay": 3285,
+    "timeWeek": 1874,
+    "timeMonth": 1944,
+    "timeYear": 2031,
     "dailyMinutesDown": {
       "2023-07-03": 356
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1605,
-    "timeDay": 3137,
-    "timeWeek": 2177,
-    "timeMonth": 2400,
-    "timeYear": 2038,
+    "time": 1611,
+    "timeDay": 3136,
+    "timeWeek": 2173,
+    "timeMonth": 2395,
+    "timeYear": 2036,
     "dailyMinutesDown": {}
   }
 ]
