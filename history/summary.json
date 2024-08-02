@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 208,
-    "timeWeek": 159,
-    "timeMonth": 147,
+    "timeDay": 171,
+    "timeWeek": 154,
+    "timeMonth": 149,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 180,
-    "timeDay": 188,
-    "timeWeek": 201,
-    "timeMonth": 132,
-    "timeYear": 159,
-    "dailyMinutesDown": {
-      "2023-08-03": 28
-    }
+    "timeDay": 64,
+    "timeWeek": 198,
+    "timeMonth": 131,
+    "timeYear": 158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AI Gallery Studio",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 1690,
-    "timeWeek": 1571,
+    "time": 798,
+    "timeDay": 1540,
+    "timeWeek": 1482,
     "timeMonth": 1836,
-    "timeYear": 979,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 210,
-    "timeWeek": 238,
-    "timeMonth": 310,
+    "timeDay": 181,
+    "timeWeek": 218,
+    "timeMonth": 309,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1792,
-    "timeDay": 637,
-    "timeWeek": 2297,
-    "timeMonth": 2285,
-    "timeYear": 2008,
+    "timeDay": 535,
+    "timeWeek": 1921,
+    "timeMonth": 2284,
+    "timeYear": 1999,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1773,
-    "timeDay": 3770,
-    "timeWeek": 2499,
-    "timeMonth": 2405,
-    "timeYear": 2006,
+    "time": 1774,
+    "timeDay": 470,
+    "timeWeek": 2123,
+    "timeMonth": 2319,
+    "timeYear": 1997,
     "dailyMinutesDown": {}
   }
 ]
