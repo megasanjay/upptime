@@ -4,19 +4,19 @@
     "url": "https://sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/sanjaysoundarajan.dev.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 113,
-    "timeWeek": 144,
-    "timeMonth": 157,
+    "timeDay": 137,
+    "timeWeek": 146,
+    "timeMonth": 158,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 81,
-    "timeWeek": 130,
-    "timeMonth": 129,
+    "timeDay": 86,
+    "timeWeek": 125,
+    "timeMonth": 127,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 12
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2131,
-    "timeDay": 3223,
-    "timeWeek": 3132,
-    "timeMonth": 2413,
-    "timeYear": 2043,
+    "time": 2134,
+    "timeDay": 3241,
+    "timeWeek": 3148,
+    "timeMonth": 2440,
+    "timeYear": 2047,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 12
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://vue3-lottie.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2152,
-    "timeDay": 3652,
-    "timeWeek": 3102,
-    "timeMonth": 2718,
-    "timeYear": 2057,
+    "time": 2159,
+    "timeDay": 3566,
+    "timeWeek": 3149,
+    "timeMonth": 2742,
+    "timeYear": 2060,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 11
     }
   }
 ]
