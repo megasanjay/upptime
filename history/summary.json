@@ -22,19 +22,19 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 130,
-    "timeWeek": 187,
-    "timeMonth": 129,
+    "timeDay": 161,
+    "timeWeek": 188,
+    "timeMonth": 131,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-11-21": 1
+      "2024-11-21": 10
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2125,
-    "timeDay": 560,
-    "timeWeek": 2019,
-    "timeMonth": 2325,
-    "timeYear": 2050,
+    "time": 2126,
+    "timeDay": 564,
+    "timeWeek": 1838,
+    "timeMonth": 2272,
+    "timeYear": 2046,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 9
     }
   },
   {
