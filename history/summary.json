@@ -22,10 +22,10 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
@@ -33,7 +33,9 @@
     "timeWeek": 187,
     "timeMonth": 129,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 1
+    }
   },
   {
     "name": "AI Gallery Studio",
@@ -76,18 +78,20 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2130,
+    "time": 2125,
     "timeDay": 560,
     "timeWeek": 2019,
     "timeMonth": 2325,
     "timeYear": 2050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "Vue 3 Lottie Documentation",
