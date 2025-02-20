@@ -94,19 +94,19 @@
     "url": "https://vue3-lottie.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2121,
-    "timeDay": 1880,
-    "timeWeek": 2781,
-    "timeMonth": 2617,
-    "timeYear": 2280,
+    "time": 2115,
+    "timeDay": 1179,
+    "timeWeek": 2493,
+    "timeMonth": 2551,
+    "timeYear": 2275,
     "dailyMinutesDown": {
-      "2025-02-20": 0
+      "2025-02-20": 7
     }
   }
 ]
