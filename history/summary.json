@@ -4,10 +4,10 @@
     "url": "https://sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/sanjaysoundarajan.dev.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
@@ -15,16 +15,18 @@
     "timeWeek": 151,
     "timeMonth": 149,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 1
+    }
   },
   {
     "name": "Colorize",
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 91,
     "timeMonth": 122,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "AI Gallery Studio",
@@ -76,35 +80,39 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2113,
+    "time": 2109,
     "timeDay": 2843,
     "timeWeek": 2425,
     "timeMonth": 1922,
     "timeYear": 2247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Vue 3 Lottie Documentation",
     "url": "https://vue3-lottie.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2182,
+    "time": 2185,
     "timeDay": 3202,
     "timeWeek": 3128,
     "timeMonth": 2557,
     "timeYear": 2332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]
