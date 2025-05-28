@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 180,
-    "timeWeek": 137,
-    "timeMonth": 140,
-    "timeYear": 146,
+    "timeDay": 99,
+    "timeWeek": 131,
+    "timeMonth": 138,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2025-04-03": 37
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 260,
-    "timeWeek": 114,
-    "timeMonth": 106,
+    "timeDay": 157,
+    "timeWeek": 127,
+    "timeMonth": 109,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1373,
-    "timeDay": 2830,
-    "timeWeek": 2829,
-    "timeMonth": 2396,
-    "timeYear": 1461,
+    "time": 1375,
+    "timeDay": 2075,
+    "timeWeek": 2791,
+    "timeMonth": 2349,
+    "timeYear": 1464,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 277,
-    "timeWeek": 332,
-    "timeMonth": 328,
+    "timeDay": 271,
+    "timeWeek": 320,
+    "timeMonth": 324,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2145,
-    "timeDay": 478,
-    "timeWeek": 1787,
-    "timeMonth": 1972,
-    "timeYear": 2266,
+    "time": 2139,
+    "timeDay": 422,
+    "timeWeek": 1815,
+    "timeMonth": 1970,
+    "timeYear": 2258,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2240,
-    "timeDay": 741,
-    "timeWeek": 1372,
-    "timeMonth": 2230,
-    "timeYear": 2335,
+    "time": 2239,
+    "timeDay": 278,
+    "timeWeek": 1291,
+    "timeMonth": 2127,
+    "timeYear": 2315,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
