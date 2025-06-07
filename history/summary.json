@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 210,
-    "timeWeek": 180,
-    "timeMonth": 148,
+    "timeDay": 192,
+    "timeWeek": 166,
+    "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-04-03": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 198,
-    "timeWeek": 139,
-    "timeMonth": 122,
+    "timeDay": 69,
+    "timeWeek": 140,
+    "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1399,
-    "timeDay": 2428,
-    "timeWeek": 2202,
-    "timeMonth": 2305,
-    "timeYear": 1475,
+    "time": 1402,
+    "timeDay": 2018,
+    "timeWeek": 2279,
+    "timeMonth": 2286,
+    "timeYear": 1477,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 368,
-    "timeWeek": 299,
-    "timeMonth": 339,
+    "time": 283,
+    "timeDay": 388,
+    "timeWeek": 330,
+    "timeMonth": 338,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2149,
-    "timeDay": 4046,
-    "timeWeek": 2326,
-    "timeMonth": 2002,
-    "timeYear": 2256,
+    "time": 2143,
+    "timeDay": 272,
+    "timeWeek": 2279,
+    "timeMonth": 2001,
+    "timeYear": 2249,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2227,
-    "timeDay": 3501,
-    "timeWeek": 2216,
-    "timeMonth": 2081,
-    "timeYear": 2315,
+    "time": 2233,
+    "timeDay": 3739,
+    "timeWeek": 2448,
+    "timeMonth": 2145,
+    "timeYear": 2317,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
