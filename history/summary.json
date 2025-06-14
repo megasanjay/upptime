@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 189,
-    "timeWeek": 162,
+    "timeDay": 165,
+    "timeWeek": 158,
     "timeMonth": 151,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 149,
-    "timeWeek": 112,
-    "timeMonth": 115,
+    "timeDay": 256,
+    "timeWeek": 139,
+    "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1425,
-    "timeDay": 2564,
-    "timeWeek": 2612,
-    "timeMonth": 2411,
-    "timeYear": 1496,
+    "time": 1430,
+    "timeDay": 3281,
+    "timeWeek": 2793,
+    "timeMonth": 2458,
+    "timeYear": 1501,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 279,
-    "timeWeek": 304,
-    "timeMonth": 326,
-    "timeYear": 303,
+    "time": 285,
+    "timeDay": 576,
+    "timeWeek": 330,
+    "timeMonth": 331,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2163,
-    "timeDay": 3691,
-    "timeWeek": 2134,
-    "timeMonth": 2191,
-    "timeYear": 2269,
+    "time": 2164,
+    "timeDay": 3849,
+    "timeWeek": 2645,
+    "timeMonth": 2211,
+    "timeYear": 2271,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2237,
-    "timeDay": 581,
-    "timeWeek": 2902,
-    "timeMonth": 2174,
-    "timeYear": 2327,
+    "time": 2238,
+    "timeDay": 3357,
+    "timeWeek": 2848,
+    "timeMonth": 2171,
+    "timeYear": 2328,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
