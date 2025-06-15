@@ -80,18 +80,19 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2165,
+    "time": 2168,
     "timeDay": 3529,
     "timeWeek": 2636,
     "timeMonth": 2223,
     "timeYear": 2273,
     "dailyMinutesDown": {
+      "2025-06-15": 0,
       "2025-04-03": 36
     }
   },
