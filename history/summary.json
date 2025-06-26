@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 142,
-    "timeDay": 89,
-    "timeWeek": 144,
-    "timeMonth": 152,
+    "time": 143,
+    "timeDay": 156,
+    "timeWeek": 142,
+    "timeMonth": 153,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-04-03": 37
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 446,
-    "timeWeek": 157,
+    "timeDay": 114,
+    "timeWeek": 162,
     "timeMonth": 134,
-    "timeYear": 119,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1468,
-    "timeDay": 2020,
-    "timeWeek": 2178,
-    "timeMonth": 2462,
-    "timeYear": 1527,
+    "time": 1470,
+    "timeDay": 2026,
+    "timeWeek": 2195,
+    "timeMonth": 2443,
+    "timeYear": 1526,
     "dailyMinutesDown": {}
   },
   {
@@ -68,9 +68,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 456,
-    "timeWeek": 293,
+    "time": 288,
+    "timeDay": 429,
+    "timeWeek": 320,
     "timeMonth": 317,
     "timeYear": 306,
     "dailyMinutesDown": {}
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2186,
-    "timeDay": 273,
-    "timeWeek": 2764,
-    "timeMonth": 2233,
-    "timeYear": 2298,
+    "time": 2181,
+    "timeDay": 623,
+    "timeWeek": 2338,
+    "timeMonth": 2152,
+    "timeYear": 2291,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2253,
-    "timeDay": 1976,
-    "timeWeek": 2797,
-    "timeMonth": 2478,
-    "timeYear": 2348,
+    "timeDay": 638,
+    "timeWeek": 2386,
+    "timeMonth": 2396,
+    "timeYear": 2341,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
