@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 190,
-    "timeWeek": 173,
+    "timeDay": 211,
+    "timeWeek": 178,
     "timeMonth": 159,
     "timeYear": 149,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 111,
-    "timeWeek": 109,
-    "timeMonth": 136,
-    "timeYear": 119,
+    "time": 130,
+    "timeDay": 219,
+    "timeWeek": 125,
+    "timeMonth": 129,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 2077,
-    "timeWeek": 2075,
-    "timeMonth": 2427,
-    "timeYear": 1534,
+    "time": 1489,
+    "timeDay": 1860,
+    "timeWeek": 2027,
+    "timeMonth": 2412,
+    "timeYear": 1531,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 332,
-    "timeWeek": 289,
-    "timeMonth": 318,
+    "timeDay": 375,
+    "timeWeek": 301,
+    "timeMonth": 319,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2193,
-    "timeDay": 520,
-    "timeWeek": 2392,
-    "timeMonth": 2343,
-    "timeYear": 2292,
+    "time": 2188,
+    "timeDay": 543,
+    "timeWeek": 1944,
+    "timeMonth": 2336,
+    "timeYear": 2286,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2232,
-    "timeDay": 651,
-    "timeWeek": 978,
-    "timeMonth": 2251,
-    "timeYear": 2312,
+    "time": 2227,
+    "timeDay": 716,
+    "timeWeek": 1015,
+    "timeMonth": 2188,
+    "timeYear": 2305,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
