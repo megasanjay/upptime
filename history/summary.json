@@ -44,18 +44,20 @@
     "url": "https://studio.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 3846,
-    "timeWeek": 2434,
-    "timeMonth": 2234,
-    "timeYear": 1560,
-    "dailyMinutesDown": {}
+    "time": 1551,
+    "timeDay": 2092,
+    "timeWeek": 2172,
+    "timeMonth": 2173,
+    "timeYear": 1556,
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Umami",
