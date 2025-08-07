@@ -4,9 +4,9 @@
     "url": "https://sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/sanjaysoundarajan.dev.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-04-03": 37
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://colorize.saso.one",
     "icon": "https://icons.duckduckgo.com/ip3/colorize.saso.one.ico",
     "slug": "colorize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 140,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-04-03": 36
     }
   },
@@ -45,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
     "status": "down",
-    "uptime": "98.92%",
+    "uptime": "98.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.47%",
-    "uptimeYear": "97.46%",
+    "uptimeMonth": "66.66%",
+    "uptimeYear": "97.22%",
     "time": 1537,
     "timeDay": 445,
     "timeWeek": 363,
     "timeMonth": 1647,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2025-08-07": 29,
+      "2025-08-07": 1258,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -92,9 +94,9 @@
     "url": "https://vue3-marquee.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-marquee.vercel.app.ico",
     "slug": "vue-3-marquee-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -104,6 +106,7 @@
     "timeMonth": 2912,
     "timeYear": 2357,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-04-03": 36
     }
   },
@@ -112,18 +115,19 @@
     "url": "https://vue3-lottie.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2259,
+    "time": 2257,
     "timeDay": 608,
     "timeWeek": 1993,
     "timeMonth": 2377,
     "timeYear": 2319,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-04-03": 36
     }
   }
