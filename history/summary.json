@@ -9,13 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 188,
-    "timeWeek": 149,
+    "timeDay": 112,
+    "timeWeek": 153,
     "timeMonth": 156,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 37
+    }
   },
   {
     "name": "Colorize",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 459,
-    "timeWeek": 146,
-    "timeMonth": 148,
+    "timeDay": 106,
+    "timeWeek": 145,
+    "timeMonth": 144,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -43,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
     "status": "down",
-    "uptime": "98.28%",
+    "uptime": "98.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.91%",
-    "uptimeYear": "95.91%",
-    "time": 1531,
-    "timeDay": 202,
-    "timeWeek": 348,
-    "timeMonth": 1388,
-    "timeYear": 1501,
+    "uptimeMonth": "49.75%",
+    "uptimeYear": "95.81%",
+    "time": 1530,
+    "timeDay": 192,
+    "timeWeek": 318,
+    "timeMonth": 1340,
+    "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-08-12": 960,
+      "2025-08-13": 27,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -79,18 +82,16 @@
     "slug": "umami",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 223,
-    "timeWeek": 338,
-    "timeMonth": 319,
+    "time": 299,
+    "timeDay": 193,
+    "timeWeek": 316,
+    "timeMonth": 317,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2025-08-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vue 3 Marquee Documentation",
@@ -103,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2275,
-    "timeDay": 3573,
-    "timeWeek": 2266,
+    "time": 2282,
+    "timeDay": 3584,
+    "timeWeek": 2611,
     "timeMonth": 2964,
-    "timeYear": 2355,
+    "timeYear": 2356,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -123,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2244,
-    "timeDay": 2177,
-    "timeWeek": 1731,
-    "timeMonth": 2158,
-    "timeYear": 2302,
+    "time": 2238,
+    "timeDay": 727,
+    "timeWeek": 1414,
+    "timeMonth": 2092,
+    "timeYear": 2295,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
