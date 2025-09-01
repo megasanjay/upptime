@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
     "status": "down",
-    "uptime": "96.05%",
+    "uptime": "96.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +58,7 @@
     "timeMonth": 371,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2025-09-01": 1221,
+      "2025-09-01": 1232,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -101,19 +101,19 @@
     "url": "https://umami.sanjaysoundarajan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/umami.sanjaysoundarajan.dev.ico",
     "slug": "umami",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 191,
-    "timeWeek": 252,
-    "timeMonth": 311,
+    "timeDay": 247,
+    "timeWeek": 264,
+    "timeMonth": 313,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 11
     }
   },
   {
