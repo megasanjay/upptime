@@ -6,9 +6,9 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 148,
     "timeDay": 176,
@@ -16,7 +16,6 @@
     "timeMonth": 163,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
       "2025-08-28": 71,
       "2025-04-03": 37
     }
@@ -28,9 +27,9 @@
     "slug": "colorize",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 131,
     "timeDay": 129,
@@ -38,7 +37,6 @@
     "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
       "2025-08-28": 70,
       "2025-04-03": 36
     }
@@ -49,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.sanjaysoundarajan.dev.ico",
     "slug": "ai-gallery-studio",
     "status": "down",
-    "uptime": "93.51%",
+    "uptime": "93.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.77%",
+    "uptimeYear": "83.76%",
     "time": 1424,
     "timeDay": 367,
     "timeWeek": 303,
     "timeMonth": 324,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2025-09-25": 1381,
+      "2025-09-26": 24,
+      "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -147,9 +146,9 @@
     "slug": "vue-3-marquee-documentation",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 2307,
     "timeDay": 3594,
@@ -157,7 +156,6 @@
     "timeMonth": 2498,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2025-09-25": 8,
       "2025-08-28": 69,
       "2025-04-03": 36
     }
@@ -169,9 +167,9 @@
     "slug": "vue-3-lottie-documentation",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 2184,
     "timeDay": 478,
@@ -179,7 +177,6 @@
     "timeMonth": 1922,
     "timeYear": 2163,
     "dailyMinutesDown": {
-      "2025-09-25": 8,
       "2025-08-28": 68,
       "2025-04-03": 36
     }
