@@ -6,9 +6,9 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 148,
     "timeDay": 105,
@@ -16,7 +16,6 @@
     "timeMonth": 147,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-10-10": 8,
       "2025-08-28": 71,
       "2025-04-03": 37
     }
@@ -28,9 +27,9 @@
     "slug": "colorize",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 121,
     "timeDay": 111,
@@ -38,7 +37,6 @@
     "timeMonth": 119,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-10-10": 8,
       "2025-08-28": 70,
       "2025-04-03": 36
     }
@@ -60,7 +58,8 @@
     "timeMonth": 306,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2025-10-10": 1432,
+      "2025-10-11": 23,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -162,9 +161,9 @@
     "slug": "vue-3-marquee-documentation",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2355,
     "timeDay": 2661,
@@ -172,7 +171,6 @@
     "timeMonth": 2674,
     "timeYear": 2393,
     "dailyMinutesDown": {
-      "2025-10-10": 8,
       "2025-08-28": 69,
       "2025-04-03": 36
     }
@@ -183,10 +181,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/vue3-lottie.vercel.app.ico",
     "slug": "vue-3-lottie-documentation",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2223,
     "timeDay": 2373,
@@ -194,7 +192,6 @@
     "timeMonth": 2224,
     "timeYear": 2160,
     "dailyMinutesDown": {
-      "2025-10-10": 8,
       "2025-08-28": 68,
       "2025-04-03": 36
     }
